@@ -5,11 +5,15 @@ A) Mayor compatibilidad con versiones antiguas de Node.js
 C) Mejor soporte para aplicaciones de React nativas
 B) Mayor rapidez en el tiempo de compilación y recarga en desarrollo
 Respuesta: B)
+
+
 ¿Cómo se inicia un servidor de desarrollo local con Vite?
 C) npm run start
 A) npm start
 B) npm run dev
 Respuesta: C) 
+
+
 
 ¿Qué comando se utiliza para crear un nuevo proyecto de React con Vite?
 A) npm create-react-app my-app
