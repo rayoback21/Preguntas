@@ -1,1 +1,1 @@
-#teorias-moviles-2024
+teorias-moviles-2024
